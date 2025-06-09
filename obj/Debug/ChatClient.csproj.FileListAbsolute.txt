@@ -1,0 +1,10 @@
+E:\ChatClient\bin\Debug\ChatClient.exe.config
+E:\ChatClient\bin\Debug\ChatClient.exe
+E:\ChatClient\bin\Debug\ChatClient.pdb
+E:\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+E:\ChatClient\obj\Debug\ChatClient.CFormMain.resources
+E:\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+E:\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+E:\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+E:\ChatClient\obj\Debug\ChatClient.exe
+E:\ChatClient\obj\Debug\ChatClient.pdb
